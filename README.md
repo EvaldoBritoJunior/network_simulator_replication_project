@@ -133,10 +133,7 @@ Execute o notebook:
 network_simulator.ipynb
 ```
 
-O notebook deve ser executado **62 vezes**, uma para cada par formado por:
-
-* notícia inicial;
-* texto complementar.
+O notebook deve ser executado **62 vezes**, uma para cada par de "notícia inicial" e "texto complementar" presente nos arquivos `*_news_table.csv`.
 
 As instruções para execução encontram-se no próprio notebook.
 
@@ -184,7 +181,7 @@ Execute:
 survey_results_analysis.ipynb
 ```
 
-Utilizando os arquivos:
+Utilize:
 
 * `survey_results.xlsx`
 * `60_sample_messages.csv`
